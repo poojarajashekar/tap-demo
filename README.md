@@ -1,4 +1,4 @@
-# tap_training_demo
+# tap-demo
 
 Topics i learnt from morning:
 1. Learnt about VCS and DVCS
